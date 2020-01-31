@@ -1,9 +1,8 @@
 h1, h2 {
   font-family: sans-serif;
-  color: blue;
+  color: hsla(0,0%,0%,0.8)
 }
 
 body {
-  background-color:coral;
-  color: blue;
+  background-color:hsla(0,0%,0%,0.1)
 }
